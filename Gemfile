@@ -17,6 +17,8 @@ gem 'coffee-rails', '~> 4.1.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
+gem 'omniauth'
+
 gem 'oauth2', '~> 1.0.0'
 
 gem 'httparty', '0.11.0'
