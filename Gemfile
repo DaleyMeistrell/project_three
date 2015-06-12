@@ -19,6 +19,8 @@ gem 'jquery-rails'
 
 gem 'omniauth'
 
+gem 'figaro'
+
 gem 'oauth2', '~> 1.0.0'
 
 gem 'httparty', '0.11.0'
